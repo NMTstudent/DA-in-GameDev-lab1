@@ -131,7 +131,9 @@ plt.scatter(x, y)
 plt.plot(x, prediction)
 ```
 [0.87434118]
+
 [0.02076263]
+
 [0.87709954] [0.02080162] 1208.602044837438
 [<matplotlib.lines.Line2D at 0x7fcf7e90c310>]
 
@@ -148,7 +150,9 @@ plt.scatter(x, y)
 plt.plot(x, prediction)
 ```
 [0.38689728]
+
 [0.9097233]
+
 [0.39537661] [0.90984589] 263.02004152619264
 [<matplotlib.lines.Line2D at 0x7fcf7e96a790>]
 
@@ -165,7 +169,9 @@ plt.scatter(x, y)
 plt.plot(x, prediction)
 ```
 [0.84765244]
+
 [0.13306453]
+
 [0.85613608] [0.13318457] 1156.1472379508996
 [<matplotlib.lines.Line2D at 0x7fcf7e8561d0>]
 
@@ -182,7 +188,9 @@ plt.scatter(x, y)
 plt.plot(x, prediction)
 ```
 [0.52954468]
+
 [0.82661341]
+
 [0.54468287] [0.82683097] 487.6261009104903
 [<matplotlib.lines.Line2D at 0x7fcf7e7d7bd0>]
 
@@ -199,7 +207,9 @@ plt.scatter(x, y)
 plt.plot(x, prediction)
 ```
 [0.02381831]
+
 [0.22918067]
+
 [0.05074296] [0.22957525] 4.625444773234256
 [<matplotlib.lines.Line2D at 0x7fcf7e755710>]
 
@@ -216,7 +226,9 @@ plt.scatter(x, y)
 plt.plot(x, prediction)
 ```
 [0.10296499]
+
 [0.17649516]
+
 [1.67922886] [0.19743818] 4442.686299950896
 [<matplotlib.lines.Line2D at 0x7fcf7e6ce110>]
 
